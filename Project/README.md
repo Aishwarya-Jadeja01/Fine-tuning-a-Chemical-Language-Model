@@ -1,0 +1,3 @@
+Task 1: We ran the code on Visual Studio therefore, have the dependencies installed and run like a normal python file. 
+Task 2: The Dataset and Model is already loaded and ready to run, just need to make sure the 'External-Dataset_for_Task2.csv' is in the same folder. As we have created the Python Notebook file, you just need to go to Kernal --> Restart Kernal and Run All cells. 
+Task 3: To run the task 3, we need to create an account on Website Weights and Biases (https://wandb.ai/home) to present the graphs of the computation. We ran the code on Google Colab. Therefore, we expect the libraries (requirements.txt) to be installed prior. 

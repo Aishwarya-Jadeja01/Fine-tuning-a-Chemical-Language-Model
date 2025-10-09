@@ -1,0 +1,17 @@
+ Ibrahim Shekho 7026656
+ Aishwarya Jadeja 7011216
+ Omar Fajjal 2577262 
+
+torch==2.0.1
+tqdm==4.64.1
+numpy==1.23.5
+pandas==1.5.3
+transformers==4.28.0
+datasets==2.10.0
+scikit-learn==1.2.2
+sentencepiece==0.1.97
+pyyaml==6.0
+ipywidgets==8.0.4
+jupyter==1.0.0
+matplotlib==3.6.2
+wandb==0.13.10
