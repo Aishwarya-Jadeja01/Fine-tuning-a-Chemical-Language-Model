@@ -697,10 +697,8 @@ For questions or issues:
 - **GitHub Repository**: [Fine-tuning-a-Chemical-Language-Model](https://github.com/Aishwarya-Jadeja01/Fine-tuning-a-Chemical-Language-Model)
 - **Issues**: [Create an issue](https://github.com/Aishwarya-Jadeja01/Fine-tuning-a-Chemical-Language-Model/issues)
 
-**Team Members:**
-- Ibrahim Shekho (7026656)
 - Aishwarya Jadeja (7011216)
-- Omar Fajjal (2577262)
+
 
 ---
 
